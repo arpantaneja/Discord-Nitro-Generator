@@ -9,3 +9,4 @@ while value <= amount:
     f.close()
     print(f'[GENERATED] {code}')
     value += 1
+#YOU JUST FOOLED ME SUCCESSFULLY.
